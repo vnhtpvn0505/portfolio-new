@@ -35,7 +35,7 @@ export default function AboutMe(props) {
             </div>
             <div className="font-Header ">
               <span className="text-gray-400 ">
-                My journey as a UI/UX designer has allowed me to work on a diverse array of projects, from designing user-friendly mobile apps to optimizing, interactives  for web platform. <br/>What excites me most about design is its power to solve problems and enhance the human experience. <br/>I&apos;m dedicated to staying updated with the latest design trends and emerging technologies to consistently deliver innovative and effective solutions.
+                My journey as a UI/UX designer has allowed me to work on a diverse array of projects, from designing user-friendly mobile apps to optimizing, interactives  for web platform. What excites me most about design is its power to solve problems and enhance the human experience. <br/>I&#39;m dedicated to staying updated with the latest design trends and emerging technologies to consistently deliver innovative and effective solutions.
               </span>
             </div>
             
