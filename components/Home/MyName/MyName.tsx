@@ -40,7 +40,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
         }}
         className="text-gray-400 font-bold text-2xl lg:text-4xl sm:text-5xl md:text-6xl mt-4"
       >
-        Don't Just Design Interfaces, Create Great Experiences
+        Don'&apos; Just Design Interfaces, Create Great Experiences
       </motion.h2>
 
       <motion.h3
