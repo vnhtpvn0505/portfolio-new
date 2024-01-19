@@ -38,7 +38,7 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
               }}
               className=""
             >
-            <a href="#" className="" target={"_blank"} rel="noreferrer">
+            <a href="https://www.behance.net/huynhphuv" className="" target={"_blank"} rel="noreferrer">
               <Be size="32" color="#FF8A65" variant="Bulk"/>
             </a>
           </motion.div>
@@ -50,7 +50,7 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
               }}
               className=""
             >
-            <a href="#" className="" target={"_blank"} rel="noreferrer">
+            <a href="https://www.linkedin.com/in/phuc05/" className="" target={"_blank"} rel="noreferrer">
             <AiFillLinkedin color="#1d4ed8"  size={32}/>
             </a>
           </motion.div>
