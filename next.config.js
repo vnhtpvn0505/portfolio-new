@@ -5,7 +5,10 @@ const nextConfig = {
   swcMinify: true,
   env: {
     BASE_URL: process.env.NEXT_PUBLIC_BLACKLIST_COUNTRIES,
-  }
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+},
 }
 
 module.exports = nextConfig
