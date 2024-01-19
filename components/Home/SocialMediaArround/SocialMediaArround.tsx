@@ -61,7 +61,7 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
               }}
               className=""
             >
-            <a href="tel:0967053394" className="" target={"_blank"} rel="phone">
+            <a href="tel:0967053394" className="" target={"_blank"} rel="noreferrer">
             <Call size="32" color="#FF8A65" variant="Bulk"/>
             </a>
           </motion.div>
