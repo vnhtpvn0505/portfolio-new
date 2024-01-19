@@ -213,16 +213,16 @@ export default function SomethingIveBuilt() {
             col-span-8 flex flex-col items-start md:items-end space-y-3"
             >
               <div className="flex flex-col space-y-1 md:items-end z-10">
-                <span className="text-AAsecondary text-base">OpenworldNFT</span>
+                <span className="text-AAsecondary text-base">Project</span>
                 <a href="https://openworldnft.io/" target="_blank" rel="noopener noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    Openworld NFT  Marketplace
+                    ZEISUI  Marketplace
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left md:text-right ">
-                OpenWorld_NFT is an innovative and decentralized marketplace platform.
+                ZEISUI  Marketplace is an innovative and decentralized marketplace platform.
                 Where the community is free to buy, sell, create and own.
                 </p>
               </div>
