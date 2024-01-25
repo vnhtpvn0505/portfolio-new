@@ -23,12 +23,7 @@ export default function Maintenance() {
           </p>
           <p className="font-light text-white-500 md:text-lg xl:text-xl dark:text-gray-400">
             No problem contact me on{" "}
-            <a
-              className="text-white underline"
-              href="mailto:abdellatif@anaflous.com?subject=Hello%20World&body=Body%20of%20the%20email"
-            >
-              abdellatif@anaflous.com
-            </a>
+           
           </p>
         </div>
       </section>

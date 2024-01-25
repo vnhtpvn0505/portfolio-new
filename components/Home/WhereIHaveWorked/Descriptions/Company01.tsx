@@ -5,7 +5,7 @@ import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 export default function Company01() {
   const tasks = [
     {
-      text: "Worked   with position the software engineer in the mobile application & web apllication with React-Native, Tailwind CSS, GrapQL",
+      text: "Worked   with position the software engineer in the mobile application & web apllication with Wordpress,React-Native, Tailwind CSS, GrapQL,AWS, MongoDBect..",
       keywords: ["React-Native", "MObile", "Tailwind CSS", "GrapQL", ],
     },
     {

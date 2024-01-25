@@ -155,9 +155,9 @@ export default function SomethingIveBuilt() {
                text-sm font-Text2 md:justify-start"
               >
                 <span className="pr-4 z-10">Fitness</span>
-                <span className="pr-4 z-10">Web3</span>
+                <span className="pr-4 z-10">AI</span>
                 <span className="pr-4 z-10">Mobile Apllication</span>
-                <span className="pr-4 z-10">M2E</span>
+                <span className="pr-4 z-10">Move to Earn</span>
                 <span className="pr-4 z-10">Blockchain</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
