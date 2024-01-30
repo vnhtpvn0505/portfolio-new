@@ -132,7 +132,6 @@ export default function SomethingIveBuilt() {
                 <Img src={"/lf.png"} alt={"Project Screen shot"} className={`w-full h-full`} />
               </div>
             </div>
-
             <div
               className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6   
             col-span-8 flex flex-col items-start  space-y-3 md:order-1"
