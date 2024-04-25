@@ -226,8 +226,8 @@ SOFTWARE.
 
 ## Author Info
 
-- Linkedin - [@abdellatif-anaflous](https://www.linkedin.com/in/abdellatif-anaflous/)
-- Website - [Abdellatif Anaflous](https://anaflous.com)
+- Linkedin - [@abdellatif-anaflous](https://www.linkedin.com/in/phuc-huynh-t05)
+- Website - [Abdellatif Anaflous](https://huynhtanphuc.com)
 
 [Back To The Top](#description) :
 

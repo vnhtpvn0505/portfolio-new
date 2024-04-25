@@ -66,7 +66,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
         }}
         className="mt-12"
       >
-        <a href={"https://drive.google.com/file/d/1mqMad9S3OkMt9AdXNy0j4ISY5pcrCash/view?usp=sharing"} target={"_blank"} rel="noreferrer">
+        <a href={"https://drive.google.com/file/d/1iwC58ylcUrRtB7tr6TaesRRUiOSk6vG6/view?usp=sharing"} target={"_blank"} rel="noreferrer">
           <button className="bg-AAprimary text-AAsecondary border rounded px-4 sm:px-8 py-3 sm:py-4 border-AAsecondary">
             Check out my resume!
           </button>

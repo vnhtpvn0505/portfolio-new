@@ -50,7 +50,7 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
               }}
               className=""
             >
-            <a href="https://www.linkedin.com/in/phuc05/" className="" target={"_blank"} rel="noreferrer">
+            <a href="linkedin.com/in/phuc-huynh-t05" className="" target={"_blank"} rel="noreferrer">
             <AiFillLinkedin color="#1d4ed8"  size={32}/>
             </a>
           </motion.div>
